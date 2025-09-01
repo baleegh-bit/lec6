@@ -97,5 +97,6 @@ Please adhere to this project's `code of conduct`.
 
 ## Demo
 
-Insert gif or link to demo
+inter this link to view my website
+[Demo](https://baleegh-bit.github.io/lec6/)
 
